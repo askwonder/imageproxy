@@ -5,8 +5,10 @@ require (
 	contrib.go.opencensus.io/exporter/ocagent v0.4.9 // indirect
 	github.com/Azure/azure-sdk-for-go v26.5.0+incompatible // indirect
 	github.com/Azure/go-autorest v11.5.2+incompatible // indirect
+	github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 // indirect
 	github.com/PaulARoy/azurestoragecache v0.0.0-20170906084534-3c249a3ba788
 	github.com/aws/aws-sdk-go v1.19.0
+	github.com/dchest/safefile v0.0.0-20151022103144-855e8d98f185 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/die-net/lrucache v0.0.0-20181227122439-19a39ef22a11
 	github.com/disintegration/imaging v1.6.0
@@ -14,10 +16,12 @@ require (
 	github.com/garyburd/redigo v1.6.0
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
 	github.com/google/btree v1.0.0 // indirect
+	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc
 	github.com/grpc-ecosystem/grpc-gateway v1.8.5 // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/jamiealquiza/envy v1.1.0
+	github.com/kardianos/govendor v1.0.9 // indirect
 	github.com/marstr/guid v0.0.0-20170427235115-8bdf7d1a087c // indirect
 	github.com/muesli/smartcrop v0.2.1-0.20181030220600-548bbf0c0965
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
